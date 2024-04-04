@@ -19,7 +19,7 @@ function checkCountValue() {
 }
 
 function resetCount() {
-    count = 0
+    count = 0;
     displayCount(); // Display the count
     alert("You've reset the number of subscribers!");
 }
